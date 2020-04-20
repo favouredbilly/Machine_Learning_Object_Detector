@@ -25,27 +25,27 @@ In this project I explore machine learning by creating an object detection syste
 
 **Overview of convolutional neural network:**
 
-![](images/1.png)
+![](images/1.PNG)
 
 We will slice off the last layer
 
-![](images/2.png)
+![](images/2.PNG)
 
 We will create a new last layer
 
-![](images/3.png)
+![](images/3.PNG)
 
 we will pass our new training images to a feature extractor and save the output to a file
 
-![](images/4.png)
+![](images/4.PNG)
 
 we will use the extracted feature to train a new neural network
 
-![](images/5.png)
+![](images/5.PNG)
 
 final design
 
-![](images/6.png)
+![](images/6.PNG)
 
 For this projects I have 17 images of different types of Keke Maruwa to train my model. I also have another 13 images that are different from Keke Maruwa to train the model on things that are not Keke Maruwa. There is another image &quot;image\_test&quot; which will be used to test this model after
 
